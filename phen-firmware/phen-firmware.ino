@@ -34,7 +34,7 @@ void loop() {
     post.concat("}");
     Serial.println(post);
 
-    if (wetness > 3500) {
+    if (humidity > 3500) {
       int httpResponseCode = http.POST(post);   //Send the actual POST request
       
       if(httpResponseCode>0){
