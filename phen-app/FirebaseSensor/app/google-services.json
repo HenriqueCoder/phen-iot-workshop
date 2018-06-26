@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "244163485227",
+    "firebase_url": "https://phen-dev.firebaseio.com",
+    "project_id": "phen-dev",
+    "storage_bucket": "phen-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244163485227:android:43df427f14f6001d",
+        "android_client_info": {
+          "package_name": "com.example.vinic.firebasesensor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244163485227-iglmgql3p0gg6ritq5k9l3pi5qeq2amd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vinic.firebasesensor",
+            "certificate_hash": "a7dad8ca60dff7a8e25cb65046dfd07847c474b2"
+          }
+        },
+        {
+          "client_id": "244163485227-7940v4n54681nj5ctll01443us0dj6n9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8-qyQNFJOpZdFalvLsQJDkO8iU6KJKCw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244163485227-7940v4n54681nj5ctll01443us0dj6n9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244163485227:android:9bb2a1b153d239d8",
+        "android_client_info": {
+          "package_name": "com.phen.firebasesensor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244163485227-gmm9treeekanc4a049m9sibp2nv5bl0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.phen.firebasesensor",
+            "certificate_hash": "a7dad8ca60dff7a8e25cb65046dfd07847c474b2"
+          }
+        },
+        {
+          "client_id": "244163485227-7940v4n54681nj5ctll01443us0dj6n9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8-qyQNFJOpZdFalvLsQJDkO8iU6KJKCw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244163485227-7940v4n54681nj5ctll01443us0dj6n9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244163485227:android:5e757bffffc6bcd0",
+        "android_client_info": {
+          "package_name": "escola.ferias.firebaseiot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244163485227-7v12vtncmc74s09v6aj690k4squ34pa8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "escola.ferias.firebaseiot",
+            "certificate_hash": "a7dad8ca60dff7a8e25cb65046dfd07847c474b2"
+          }
+        },
+        {
+          "client_id": "244163485227-7940v4n54681nj5ctll01443us0dj6n9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8-qyQNFJOpZdFalvLsQJDkO8iU6KJKCw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244163485227-7940v4n54681nj5ctll01443us0dj6n9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
